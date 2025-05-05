@@ -11,3 +11,6 @@ wheels/
 
 # notebook
 .ipynb_checkpoints
+
+# uv
+uv.lock
